@@ -42,6 +42,13 @@
 	"immune": [
 		"fire"
 	],
+	"resist": [
+		"acid",
+		"cold",
+		"fire",
+		"lightning",
+		"poison"
+	],
 	"conditionImmune": [
 		"charmed",
 		"frightened",
