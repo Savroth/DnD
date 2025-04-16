@@ -1,5 +1,24 @@
 {
-	"name": "Gishath, Sun's Avatar",
+"_meta": {
+  "sources": [
+    {
+      "json": "smithbrew97",
+      "full": "Smith's Basket of Miscellany",
+      "abbreviation": "YrkGld",
+      "color": "#e5b60b",
+      "authors": [
+        "Savroth"
+      ],
+      "dateReleased": "2025-04-16",
+      "version": "1.0",
+    }
+  ],
+  "edition": "classic",
+  "status": "ready",
+  "dateAdded": 1729973698,
+  "dateLastModified": 1757175607
+}
+	"name": "Gishath",
 	"group": [
 		"Dinosaurs"
 	],
